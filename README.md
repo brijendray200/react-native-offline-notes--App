@@ -8,7 +8,7 @@ Offline Notes is a React Native Expo app for writing and editing notes with loca
 
 ## APK Download
 
-[Download APK from Google Drive](YOUR_GOOGLE_DRIVE_APK_LINK_HERE)
+[Download APK from Google Drive](https://drive.google.com/file/d/1c3XDgHvKERdsPG1P9N2tsb-wbDg6JqjH/view?usp=drive_link)
 
 ## Features
 
